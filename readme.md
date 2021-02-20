@@ -121,6 +121,6 @@ _[Ссылка на документ с заданием](zadaniye2.1, Volnykh M
 
 ## Отчётность
 
-[Задание на практику](zadaniye na praktiku, Volnykh MV, IVT 1-1.docx)
+[Задание на практику](zadaniye na praktiku, Volnykh MV, IVT 1-1.pdf)
 
-[Отчёт по практике](otchet po praktike, Volnykh MV, IVT 1-1.docx)
+[Отчёт по практике](otchet po praktike, Volnykh MV, IVT 1-1.pdf)
